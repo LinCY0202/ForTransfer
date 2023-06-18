@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/11111102/lab2-3/BCD_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BCD_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/11111102/lab2-3/tb_BCD_Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_BCD_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/11111102/lab2-3/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
