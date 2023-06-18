@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\project_C++\Pong\Pong\main.cpp(10,17): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(10,14): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(40,35): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(46,35): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(47,36): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(63,28): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(98,30): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\project_C++\Pong\Pong\main.cpp(99,31): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Pong.vcxproj -> D:\project_C++\Pong\x64\Debug\Pong.exe
